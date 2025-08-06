@@ -1,5 +1,5 @@
 import {Account, Avatars, Client, Databases, ID, Query} from "react-native-appwrite";
-import {CreateUserParams, SignInParams} from "@/type";
+import {CreateUserParams, SignInParams, User} from "@/type";
 
 
 export const appwriteConfig = {
